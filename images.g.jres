@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAcAAAAAAAAABwAAAAAAAAB3B3B3BwAAAHAAd3B3AAAHcHcHAAAAAHdwdwcAAAAAd3B3dwAABwBwcHd3d3cHAHB3d3cHcAAAAAB3dwAAAAAAd3d3BwAAAHAHdwB3AABwdwAHAAB3AAAAAAcAAHAAAABwAAAAcAcAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQYABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApwAAAAAAAABgAAAAAAAGAAAAAGAAcADwDw8ACgAA8G/39w8AAABvd3f39wAA8H9qZnb2AADwdxZmqncPAAZvZ2Zq9wBgCvBnZmZ3DwcAf2dmZvcPAPB3Zmpmdw8AAH93Znf2AAAA8Gd3d3YPAADwf39//wAAYADw8PAAoAAABwAAAAAABgAACnAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Virus 1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
